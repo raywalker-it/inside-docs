@@ -1,0 +1,42 @@
+# Site settings
+description: "Documentation"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site 
+version: 0.1.0
+
+# User settings
+username: "Inside Home & Gifts"
+user_description: "Ray Walker"
+user_title: 
+email: hello@raywalker.it
+twitter_username: funkygibbing
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Series
+    url: /series
+  - title: Tags
+    url: /tags
+  - title: Help
+    url: /help
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
+
+timezone: Australia/Hobart

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>Documentation</description>
+    <link>http://localhost:3000/</link>
+    <atom:link href="http://localhost:3000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 28 Aug 2015 14:02:08 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2015 14:02:08 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Adding Sliders to Pages</title>
+        <description>&lt;p&gt;Now to place those &lt;a href=&quot;/adding-a-new-banner-slider/&quot;&gt;sliders&lt;/a&gt; you’ve created in pages and categories and products.&lt;/p&gt; &lt;h2 id=&quot;create-the-shortcode-static-block&quot;&gt;Create the Shortcode Static Block&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Navigate to &lt;em&gt;Banner Slider &amp;gt; Manage Banner Sliders&lt;/em&gt;&lt;/li&gt; &lt;li&gt;Click to select the &lt;strong&gt;Shortcode for CMS&lt;/strong&gt; field for the slider you wish to use. The shortcode is the field which looks similar to: &lt;img src=&quot;/assets/img/banner-slider/shortcode.png&quot; alt=&quot;Shortcode for CMS&quot; /&gt;&lt;/li&gt; &lt;li&gt;While the shortcode is selected, press CTRL-C on the keyboard, or right click ‘Copy to Clipboard’&lt;/li&gt; &lt;li&gt;Navigate to &lt;em&gt;CMS &amp;gt; Static Blocks&lt;/em&gt; and click the &lt;strong&gt;Add New Block&lt;/strong&gt; button&lt;/li&gt; &lt;li&gt;Enter appropriate values in &lt;strong&gt;Block Title&lt;/strong&gt; and &lt;strong&gt;Identifier&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Click the &lt;strong&gt;Show /...</description>
+        <pubDate>Fri, 28 Aug 2015 17:04:22 +0000</pubDate>
+        <link>http://localhost:3000/adding-sliders-to-pages/</link>
+        <guid isPermaLink="true">http://localhost:3000/adding-sliders-to-pages/</guid>
+        
+        
+        <category>banner slider</category>
+        
+      </item>
+    
+      <item>
+        <title>Create a new Banner Slider</title>
+        <description>&lt;p&gt;Once you’ve &lt;a href=&quot;/adding-a-new-banner/&quot;&gt;uploaded some banner images&lt;/a&gt;, now put them together as a slider:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Navigate to &lt;em&gt;Banner Slider &amp;gt; Manage Banner Sliders&lt;/em&gt; and click the &lt;strong&gt;Add New Slider&lt;/strong&gt; button&lt;/li&gt; &lt;li&gt;Enter the slider &lt;strong&gt;Name&lt;/strong&gt; (not shown to customers)&lt;/li&gt; &lt;li&gt;Enter the &lt;strong&gt;Block Code ID&lt;/strong&gt; (must be unique, not shown to customers)&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Show Image Title in Banner&lt;/strong&gt; and &lt;strong&gt;Show Description in Banner&lt;/strong&gt; control whether each image has their title or description displayed&lt;/li&gt; &lt;li&gt;Set &lt;strong&gt;Status&lt;/strong&gt; ‘Enabled’&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Slide Show Style&lt;/strong&gt; control whether light text or dark text are superimposed on the image. Experiment with styles and images to see which is more legible or...</description>
+        <pubDate>Fri, 28 Aug 2015 16:55:37 +0000</pubDate>
+        <link>http://localhost:3000/adding-a-new-banner-slider/</link>
+        <guid isPermaLink="true">http://localhost:3000/adding-a-new-banner-slider/</guid>
+        
+        <category>sliders</category>
+        
+        
+        <category>banner slider</category>
+        
+      </item>
+    
+      <item>
+        <title>Adding a new Banner</title>
+        <description>&lt;ul&gt; &lt;li&gt;In the Magento admin section, navigate to &lt;em&gt;Banner Slider &amp;gt; Manage Banners&lt;/em&gt;&lt;/li&gt; &lt;li&gt;Enter a &lt;strong&gt;Title&lt;/strong&gt; to identify this slide&lt;/li&gt; &lt;li&gt;Upload an image with &lt;strong&gt;Choose File&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;(optional) Enter &lt;strong&gt;Link URL&lt;/strong&gt;, eg &lt;em&gt;/sale&lt;/em&gt; or &lt;em&gt;https://inside.com.au/shop&lt;/em&gt;&lt;/li&gt; &lt;li&gt;(optional) &lt;strong&gt;Call to Action Text&lt;/strong&gt; is the button text&lt;/li&gt; &lt;li&gt;Ensure &lt;strong&gt;Status&lt;/strong&gt; is Enabled&lt;/li&gt; &lt;li&gt;(optional) &lt;strong&gt;Description&lt;/strong&gt; is displayed as small writing above the &lt;strong&gt;Title&lt;/strong&gt; on the slide&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;When all is done, it might look something like this:&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;/assets/img/banner-slider/add-banner.png&quot; alt=&quot;Banners&quot; /&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Click &lt;strong&gt;Save Banner&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Repeat to upload more banners, or &lt;a href=&quot;/adding-a-new-banner-slider/&quot;&gt;proceed to create a slider&lt;/a&gt;&lt;/p&gt; &lt;h2 id=&quot;a-note-about-image-size&quot;&gt;A note about image size&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Upload...</description>
+        <pubDate>Fri, 28 Aug 2015 16:55:29 +0000</pubDate>
+        <link>http://localhost:3000/adding-a-new-banner/</link>
+        <guid isPermaLink="true">http://localhost:3000/adding-a-new-banner/</guid>
+        
+        
+        <category>banner slider</category>
+        
+      </item>
+    
+      <item>
+        <title>Banner sliders and you</title>
+        <description>&lt;h1 id=&quot;overview&quot;&gt;Overview&lt;/h1&gt;
+
+&lt;p&gt;Banner sliders are comprised of one or more &lt;a href=&quot;/adding-a-new-banner/&quot;&gt;Banners&lt;/a&gt;, connected to a &lt;a href=&quot;/adding-a-new-banner-slider/&quot;&gt;Banner Slider&lt;/a&gt;, configured as &lt;a href=&quot;/adding-sliders-to-pages/&quot;&gt;Static Blocks&lt;/a&gt; and added to pages.&lt;/p&gt;
+
+&lt;p&gt;It’s less complicated than it sounds, and allows for a great deal of flexibility. The following links will guide you through the process:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/adding-a-new-banner/&quot;&gt;Uploading Banner Images&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/adding-a-new-banner-slider/&quot;&gt;Building a slider&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/adding-sliders-to-pages/&quot;&gt;Adding Sliders to Categories and Pages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+        <link>http://localhost:3000/how-to-use/</link>
+        <guid isPermaLink="true">http://localhost:3000/how-to-use/</guid>
+        
+        <category>hero</category>
+        
+        <category>products</category>
+        
+        <category>categories</category>
+        
+        
+        <category>banner slider</category>
+        
+      </item>
+    
+  </channel>
+</rss>
